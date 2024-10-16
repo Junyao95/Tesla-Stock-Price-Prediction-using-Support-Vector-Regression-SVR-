@@ -99,4 +99,4 @@ The predicted price for tomorrow is: <predicted_price>
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ### Screenshot
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/Junyao95/Tesla-Stock-Price-Prediction-using-Support-Vector-Regression-SVR-/blob/main/SVM.png?raw=true)
